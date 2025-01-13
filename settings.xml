@@ -5,9 +5,9 @@
 
   <servers>
     <server>
-      <id>mymaven-snapshots</id>
+      <id>java-maven-war-app-snapshot/</id>
       <username>admin</username>
-      <password>Passw0rd</password>
+      <password>#Aravind@147</password>
     </server>
     <server>
       <id>mymaven-releases</id>
