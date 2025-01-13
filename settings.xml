@@ -10,9 +10,9 @@
       <password>#Aravind@147</password>
     </server>
     <server>
-      <id>mymaven-releases</id>
+      <id>java-maven-war-app-releases/</id>
       <username>admin</username>
-      <password>Passw0rd</password>
+      <password>#Aravind@147</password>
     </server>
   </servers>
 
