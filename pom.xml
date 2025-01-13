@@ -85,7 +85,7 @@
     </snapshotRepository>
     <repository>
       <id>mymaven-releases</id>
-      <url>http://172.31.25.124:8081/repository/java-maven-war-app-release</url>
+      <url>http://172.31.25.124:8081/repository/java-maven-war-app-releases</url>
     </repository>
   </distributionManagement>
 </project>
